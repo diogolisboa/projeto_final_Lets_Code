@@ -1,0 +1,75 @@
+#tittle{
+    background: rgb(252, 39, 74);
+}
+
+#features{
+    position: relative;
+    background: white;
+}
+
+h1{
+    font-family: 'Libre Baskerville', serif;
+}
+
+.tindog{
+    font-family: Ubuntu, sans-serif;
+}
+
+.title-1{
+    width: 50%;
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    line-height: 2;
+}
+
+.iphone{
+    transform: rotate(30deg);
+    width: 60%;
+}
+
+#features{
+    margin-top: -30px;
+    padding: 100px;
+}
+
+.fas{
+    color: rgb(252, 39, 74);
+    width: 15px;
+}
+
+.testimonials{
+    background: rgb(252, 39, 74);
+    padding: 100px;
+
+}
+
+.img-testimonials{
+    width: 10%;
+    border-radius: 50%;
+}
+
+.testimonial-text{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-decoration: bold;
+}
+
+#logos{
+    width: 15%;
+}
+
+.text-pricing{
+    font-size: 80%
+}
+
+.cta{
+    background: rgb(252, 39, 74);
+    padding: 200px;
+
+}
+
+.title-call{
+    font-family: 'Libre Baskerville', serif;
+    color: white;
+    text-decoration: bold;
+}
